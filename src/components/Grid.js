@@ -1,8 +1,7 @@
 import React from 'react'
-import { Icon, Typography } from '@material-ui/core'
+import {Typography } from '@material-ui/core'
 import { makeStyles } from '@material-ui/core'
 import CustomBtn from './customBtn'
-import { classes } from 'istanbul-lib-coverage'
 
 const styles = makeStyles({
     wrapper: {
